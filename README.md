@@ -1,3 +1,3 @@
-# Руссификатор программы Vmware Workstation Pro
+# Русификатор программы Vmware Workstation Pro
 ## Как установить?
 ## Разработка
